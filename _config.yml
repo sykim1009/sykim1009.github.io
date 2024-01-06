@@ -64,7 +64,10 @@ content:
     content:
       - layout: left
         title: 삼성전자
-        image: images/samsung_logo.png 
+        additional_links:
+         - title:  
+           icon: images/samsung_logo.png 
+        #image: images/samsung_logo.png 
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: HPC Server Infra Engineer
