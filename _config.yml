@@ -90,12 +90,27 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          <mark>Description</mark>
+
           수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
-          데이터 수집 Architecture 설계, 모니터링 솔루션을 선정, Agent 배포 스크립트 개발, 이상 경고 시스템 개발, 대시보드 개발을 진행했습니다.
+          <mark>My Job</mark>
 
-          Splunk를 통해 안정적으로 대규모 데이터를 수집했으며 이상 경고 동보 시스템도 구현했고, 한 눈에 볼 수 있는 대시보드도 만들었습니다.
+          - 데이터 수집 Architecture 설계
 
+          - 대규모 데이터 수집 Scability 검증
+
+          - Agent 배포 Bash Shell Script 개발
+
+          - 이상 경고 시스템 개발
+
+          - 통합 대시보드 개발
+
+          <mark>Tech Stack</mark>
+          
+          - SQL
+
+          - Linux Bash Shell
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
