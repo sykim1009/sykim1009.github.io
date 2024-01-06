@@ -76,8 +76,9 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 대규모 Linux OS 모니터링 시스템 개발
+        sub_title: SQL, Linux Bash Shell
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -105,12 +106,6 @@ content:
           - 이상 경고 시스템 개발
 
           - 통합 대시보드 개발
-
-          <mark>Tech Stack</mark>
-          
-          - SQL
-
-          - Linux Bash Shell
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
