@@ -90,11 +90,11 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          <mark>Description</mark>
+          Description
 
           수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
-          <mark>My Job</mark>
+          My Job
 
           - 데이터 수집 Architecture 설계
 
@@ -106,7 +106,7 @@ content:
 
           - 통합 대시보드 개발
 
-          <mark>Tech Stack</mark>
+          Tech Stack
           
           - SQL
 
