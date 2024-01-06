@@ -76,6 +76,7 @@ content:
     content:
       - layout: left
         title: 대규모 Linux OS 모니터링 시스템 개발
+        sub_title: 삼성전자 혁신센터
         caption: May 2022 - 현재
         #link: github.com/sproogen
         # link_text: Project Website
@@ -103,7 +104,7 @@ content:
 
           **Tech Stack**
           - SQL
-          ![Trees](images/sql_logo.png "Trees")
+          ![Trees](images/sql_logo.png "Trees"){: width="100" height="100"}
           - Linux Bash Shell
 
   - title: Education # Title for the section
