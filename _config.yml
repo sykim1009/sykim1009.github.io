@@ -63,7 +63,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 삼성전자(DS)
+        title: 삼성전자(DS)![alt text](images/samsung_logo.png "samsung_logo")
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: HPC Server Infra Engineer
@@ -71,7 +71,7 @@ content:
         quote: >
           Design Large-Scale and Heterogeneous Linux HPC Server System
         description: | # this will include new lines to allow paragraphs
-            삼성전자 혁신센터에서 HPC(High Performance Computing) 서버 인프라 시스템 운영 업무를 맡으며 대규모 OS 모니터링, 통합 HW 모니터링, Ansible Provisioning 자동화, 서버 평가 및 성능 테스트, Setup 프로세스 수립 등 안정적인 반도체 설계 시뮬레이션 서비스를 제공하고 있습니다.
+            삼성전자 혁신센터에서 HPC(High Performance Computing) On-Premiss 서버 인프라 시스템 운영 업무를 맡으며 대규모 OS 모니터링, 통합 HW 모니터링, Ansible Provisioning 자동화, 서버 평가 및 성능 테스트, Setup 프로세스 수립 등 안정적인 반도체 설계 시뮬레이션 서비스를 제공하고 있습니다.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
