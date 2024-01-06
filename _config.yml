@@ -49,9 +49,13 @@ linkedin_username: jameswgrant
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요, HPC Server Infra Engineer 김승연이라고 합니다.
+
   신기술 도입의 효과와 안정적인 운영을 적절히 조화시켜 차별화된 서비스를 제공하는 것이 IT 인프라 엔지니어의 가치라고 믿습니다.
+
   사람과의 Communication을 중요하게 생각하며 과거의 업무 사연들을 세심히 이해하려고 노력합니다.
+
   어제보다 더 발전하는 사람이 되기 위해 끊임없이 공부하고 노력합니다.
+  
   주도적이고 효율적인 업무 스타일을 추구합니다.
 
 content:
@@ -87,7 +91,9 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
+
           데이터 수집 Architecture 설계, 모니터링 솔루션을 선정, Agent 배포 스크립트 개발, 이상 경고 시스템 개발, 대시보드 개발을 진행했습니다.
+
           Splunk를 통해 안정적으로 대규모 데이터를 수집했으며 이상 경고 동보 시스템도 구현했고, 한 눈에 볼 수 있는 대시보드도 만들었습니다.
 
 
