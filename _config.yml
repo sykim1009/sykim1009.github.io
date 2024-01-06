@@ -74,12 +74,10 @@ content:
         title: LG전자 생산기술원
         sub_title: 제어시스템 설계 엔지니어
         caption: Dec 2017 - Jun 2021
-        quote: >
-          Design Large-Scale and Heterogeneous Linux HPC Server System
         description: | # this will include new lines to allow paragraphs
             
             디스플레이 공정 증착, 잉크젯 설비를 연구 개발하며 제어 Architectured을 설계하고 PLC, HMI 등 프로그램을 개발했습니다.
-            
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,6 +114,38 @@ content:
         #![Trees](images/sql_logo.png "Trees"){: width="100"}
           - Linux Bash Shell
 
+      - layout: left
+        title: 대규모 Linux OS 모니터링 시스템 개발
+        sub_title: 삼성전자 혁신센터
+        caption: May 2022 - 현재
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          **Description**
+
+          수 만 노드의 Linux 서버 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
+
+          **What I did**
+
+          - 데이터 수집 Architecture 설계
+          - 대규모 데이터 수집 Scability 검증
+          - Agent 배포 Bash Shell Script 개발
+          - 이상 경고 시스템 개발
+          - 통합 대시보드 개발
+
+          **Tech Stack**
+          - SQL
+        #![Trees](images/sql_logo.png "Trees"){: width="100"}
+          - Linux Bash Shell
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
