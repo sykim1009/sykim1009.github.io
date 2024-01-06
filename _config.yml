@@ -64,6 +64,7 @@ content:
     content:
       - layout: left
         title: 삼성전자 DS 혁신센터
+        border: weak
         sub_title: HPC Server 인프라 엔지니어
         caption: July 2021 - 현재
         quote: >
@@ -73,6 +74,7 @@ content:
             ---
 
       - title: LG전자 생산기술원
+        border: weak
         sub_title: 제어시스템 설계 엔지니어
         caption: Dec 2017 - Jun 2021
         description: | # this will include new lines to allow paragraphs
@@ -83,6 +85,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: 대규모 Linux OS 모니터링 시스템 개발
         sub_title: 삼성전자 혁신센터
         caption: May 2023 - 현재
@@ -114,11 +117,12 @@ content:
           - 통합 대시보드 개발
 
           **Tech Stack**
-          - SQL
-          - Linux Bash Shell
+          - <mark>SQL</mark>
+          - <mark>Linux Bash Shell</mark>
           ---
 
       - title: 통합 HW 모니터링 시스템 PoC
+        border: weak
         sub_title: 삼성전자 혁신센터
         caption: July 2022 - Jan 2023
         #link: github.com/sproogen
@@ -154,10 +158,10 @@ content:
           - (예정)데이터 스트리밍 플랫폼 remote-write 데이터 파이프라인 개발
 
           **Tech Stack**
-          - Prometheus
-          - Grafana
-          - Python WSGI Server
-          - Redfish API
+          - <mark>Prometheus</mark>
+          - <mark>Grafana</mark>
+          - <mark>Python WSGI Server</mark>
+          - <mark>Redfish API</mark>
           ---
           
   - title: Education # Title for the section
