@@ -83,7 +83,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: 대규모 Linux OS 모니터링 시스템 개발
         sub_title: 삼성전자 혁신센터
         caption: May 2023 - 현재
@@ -98,7 +98,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           이상 경고 시스템, 통합 대시보드 개발 등 장애 대응 속도를 높이기 위해서는 OS 데이터 수집은 필수적입니다.
-          하지만 시스템 정보, 사용량, Syslog 등 수집해야할 항목과 서버 대수가 많아 데이터가 방대해지고 있습니다.
+          시스템 정보, 사용량, Syslog 등 수집해야할 항목과 서버 대수가 많아 데이터가 방대하다는 어려움이 있습니다.
           수집 성능을 보장하고 원하는 기능을 구현하기 위해 체계적인 Architecture 설계가 필요합니다.
 
         description: | # this will include new lines to allow paragraphs
