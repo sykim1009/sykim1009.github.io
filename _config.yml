@@ -96,12 +96,15 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          이상 경고 시스템, 통합 대시보드 개발 등 장애 대응 속도를 높이기 위해서는 OS 데이터 수집은 필수적입니다.
+          하지만 시스템 정보, 사용량, Syslog 등 수집해야할 항목과 서버 대수가 많아 데이터가 방대해지고 있습니다.
+          수집 성능을 보장하고 원하는 기능을 구현하기 위해 체계적인 Architecture 설계가 필요합니다.
+
         description: | # this will include new lines to allow paragraphs
           **Description**
 
-          수 만 노드의 Linux 서버 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
+          수 만 대의 Linux 서버 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
           **What I did**
 
