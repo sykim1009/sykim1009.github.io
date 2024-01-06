@@ -70,8 +70,8 @@ content:
           Design Large-Scale and Heterogeneous Linux HPC Server System
         description: | # this will include new lines to allow paragraphs
             HPC(High Performance Computing) On-Premiss 서버 인프라 시스템 운영 업무를 맡으며 대규모 OS 모니터링, 통합 HW 모니터링, Ansible Provisioning 자동화, 서버 평가 및 성능 테스트, Setup 프로세스 수립 등 안정적인 반도체 설계 시뮬레이션 서비스를 제공하고 있습니다.
-      - layout: left
-        title: LG전자 생산기술원
+
+      -  title: LG전자 생산기술원
         sub_title: 제어시스템 설계 엔지니어
         caption: Dec 2017 - Jun 2021
         description: | # this will include new lines to allow paragraphs
