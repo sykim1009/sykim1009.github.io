@@ -22,7 +22,7 @@ darkmode: never
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: seungyeon-kim
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -90,11 +90,11 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Description
+          <mark>Description</mark>
 
           수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
-          My Job
+          <mark>My Job</mark>
 
           - 데이터 수집 Architecture 설계
 
@@ -116,15 +116,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: 한국항공대학교
+        caption: 2011 - 2017
+        sub_title: BSc Mechanical Engineering
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          
+          기계공학을 전공하며 학습한 MATLAB, C, Python 등 프로그래밍 공부가 재미있었습니다.
+          
+          특히 마이크로프로세서로 무인비행기의 비행제어시스템을 개발했던 경험이 큰 계기가 되었습니다.
+          
+          그 길로 제어 공학자가 되기로 결심했습니다.
 
   - title: A Little More About Me
     layout: text
