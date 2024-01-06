@@ -63,13 +63,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 삼성전자
-        additional_links:
-         - title:  
-           icon: images/samsung_logo.png 
-        #image: images/samsung_logo.png 
-        #link: boringcompany.com
-        # link_text: boringcompany.com
+        title: 삼성전자 DS
         sub_title: HPC Server Infra Engineer
         caption: July 2021 - 현재
         quote: >
@@ -95,11 +89,11 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          <mark>Description</mark>
+          # Description
 
           수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
-          <mark>My Job</mark>
+          ## My Job
 
           - 데이터 수집 Architecture 설계
 
