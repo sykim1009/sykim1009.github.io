@@ -76,7 +76,7 @@ content:
     content:
       - layout: left
         title: 대규모 Linux OS 모니터링 시스템 개발
-        sub_title: 
+        caption: May 2022 - 현재
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -91,22 +91,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Description**
 
-          수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
+          수 만 노드의 Linux 서버 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
           **What I did**
 
           - 데이터 수집 Architecture 설계
-
           - 대규모 데이터 수집 Scability 검증
-
           - Agent 배포 Bash Shell Script 개발
-
           - 이상 경고 시스템 개발
-
           - 통합 대시보드 개발
 
           **Tech Stack**
           - SQL
+          ![Trees](images/sql_logo.png "Trees")
           - Linux Bash Shell
 
   - title: Education # Title for the section
