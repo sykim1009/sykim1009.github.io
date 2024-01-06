@@ -76,7 +76,7 @@ content:
     content:
       - layout: left
         title: 대규모 Linux OS 모니터링 시스템 개발
-        sub_title: SQL, Linux Bash Shell
+        sub_title: 
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -89,11 +89,11 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          # Description
+          **Description**
 
           수 만 노드의 Linux 서버의 데이터를 수집하기 위한 프로젝트를 이끌었습니다.
 
-          ## My Job
+          **What I did**
 
           - 데이터 수집 Architecture 설계
 
@@ -104,6 +104,10 @@ content:
           - 이상 경고 시스템 개발
 
           - 통합 대시보드 개발
+
+          **Tech Stack**
+          - SQL
+          - Linux Bash Shell
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
