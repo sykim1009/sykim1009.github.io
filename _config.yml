@@ -71,20 +71,22 @@ content:
         description: | # this will include new lines to allow paragraphs
             HPC(High Performance Computing) On-Premiss 서버 인프라 시스템 운영 업무를 맡으며 대규모 OS 모니터링, 통합 HW 모니터링, Ansible Provisioning 자동화, 서버 평가 및 성능 테스트, Setup 프로세스 수립 등 안정적인 반도체 설계 시뮬레이션 서비스를 제공하고 있습니다.
 
+
+
       - title: LG전자 생산기술원
         sub_title: 제어시스템 설계 엔지니어
         caption: Dec 2017 - Jun 2021
         description: | # this will include new lines to allow paragraphs
             
             디스플레이 공정 증착, 잉크젯 설비를 연구 개발하며 제어 Architectured을 설계하고 PLC, HMI 등 프로그램을 개발했습니다.
-            
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 대규모 Linux OS 모니터링 시스템 개발
         sub_title: 삼성전자 혁신센터
-        caption: May 2022 - 현재
+        caption: May 2023 - 현재
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -112,6 +114,47 @@ content:
           **Tech Stack**
           - SQL
           - Linux Bash Shell
+
+      - title: 통합 HW 모니터링 시스템 PoC
+        sub_title: 삼성전자 혁신센터
+        caption: July 2022 - Jan 2023
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            기술이 고도화되고 인프라 규모가 커짐에 따라 서버 제조사와 모델이 다양해지고 있습니다.
+
+            제조사별로 상이한 관리 툴과 일관성 없는 모니터링 방식은 운영 효율성이 떨어지는 문제가 있습니다.
+
+            하드웨어 모니터링을 통합하기 위해 Lagacy 방식인 SNMP, IPMI가 있으나 표준으로는 적합하지 않습니다.
+
+            이러한 문제점을 개선하기 위해 하드웨어 관리 표준 프로토콜인 Redfish가 등장했습니다.
+
+        description: | # this will include new lines to allow paragraphs
+          **Description**
+
+           Redfish 프로토콜과 오픈소스 모니터링 플랫폼인 Prometheus를 기반으로 통합 하드웨어 모니터링 시스템을 구축하여 새로운 서버 인프라 운영의 패러다임을 제시했습니다.
+
+          **What I did**
+
+          - 제조사 통합 데이터 수집 Architecture 설계
+          - Prometheus 서버 구축
+          - Redfish Exporter 개발(Python WSGI 기반)
+          - 하드웨어 정보 수집 알고리즘 설계
+          - Grafana 통합 대시보드 개발
+          - (예정)데이터 스트리밍 플랫폼 remote-write 데이터 파이프라인 개발
+
+          **Tech Stack**
+          - Prometheus
+          - Grafana
+          - Python WSGI Server
+          - Redfish API
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -120,8 +163,6 @@ content:
         title: 한국항공대학교
         caption: 2011 - 2017
         sub_title: BSc Mechanical Engineering
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           
           기계공학을 전공하며 학습한 MATLAB, C, Python 등 프로그래밍 공부가 재미있었습니다.
